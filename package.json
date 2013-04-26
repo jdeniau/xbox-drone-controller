@@ -1,0 +1,17 @@
+{
+  "name": "xbox-drone-controller",
+  "version": "0.0.1",
+  "description": "Xbox Drone Controller",
+  "main": "xbox-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdeniau/xbox-drone-controller.git"
+  },
+  "author": "Julien Deniau",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a1adf18b9f33890add5afbd6727fc492aa2576cb"
+}
