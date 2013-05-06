@@ -1,6 +1,6 @@
 {
   "name": "xbox-drone-controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xbox Drone Controller",
   "main": "xbox-controller.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jdeniau/xbox-drone-controller.git"
+  },
+  "dependencies": {
+      "joystick": "*",
+      "ar-drone": "*"
   },
   "author": "Julien Deniau",
   "license": "BSD",
